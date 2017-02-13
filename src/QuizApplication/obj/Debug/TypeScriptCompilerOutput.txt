@@ -1,0 +1,5 @@
+c:\users\marlon.smith\documents\visual studio 2015\Projects\QuizApplication\src\QuizApplication\wwwroot\file.js
+c:\users\marlon.smith\documents\visual studio 2015\Projects\QuizApplication\src\QuizApplication\wwwroot\file.js
+c:\users\marlon.smith\documents\visual studio 2015\Projects\QuizApplication\src\QuizApplication\wwwroot\file.js
+C:\Users\marlon.smith\documents\visual studio 2015\Projects\QuizApplication\src\QuizApplication\wwwroot\file.js
+C:\Users\marlon.smith\documents\visual studio 2015\Projects\QuizApplication\src\QuizApplication\wwwroot\file.js.map
